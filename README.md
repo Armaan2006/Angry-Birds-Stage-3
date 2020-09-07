@@ -1,2 +1,2 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Pictures
+# angryBirdsStage3
+Angry Birds stage 3 with Constraints between bird and log
